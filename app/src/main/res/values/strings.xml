@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shareable_Shopping</string>
+    <string name="title_activity_landing_activity">Landing_activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="text_ok">OK</string>
+    <string name="login_failed">Username or password incorrect, please try again.</string>
+	
+    <string name="title_activity_rooms">Rooms</string>
+</resources>
